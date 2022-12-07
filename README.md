@@ -1,1 +1,1 @@
-this is the begining
+Write a script that prints “Hello, World”
